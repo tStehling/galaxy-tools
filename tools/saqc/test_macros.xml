@@ -79,7 +79,7 @@
             <param name="window" value="default_string" />
             <param name="min_periods" value="1" />
             <param name="reduce_window" value="default_string" />
-            <param name="reduce_func" value="&lt;function ChangepointsMixin.&lt;lambda&gt; at 0x714978652160&gt;" />
+            <param name="reduce_func" value="&lt;function ChangepointsMixin.&lt;lambda&gt; at 0x7f03cc2d2160&gt;" />
             <param name="model_by_resids" value="true" />
           </conditional>
         </conditional>
@@ -104,7 +104,7 @@
             <param name="window" value="a_string" />
             <param name="min_periods" value="1" />
             <param name="reduce_window" value="default_string" />
-            <param name="reduce_func" value="&lt;function ChangepointsMixin.&lt;lambda&gt; at 0x714978652160&gt;" />
+            <param name="reduce_func" value="&lt;function ChangepointsMixin.&lt;lambda&gt; at 0x7f03cc2d2160&gt;" />
             <param name="model_by_resids" value="true" />
           </conditional>
         </conditional>
@@ -129,7 +129,7 @@
             <param name="window" value="default_string" />
             <param name="min_periods" value="123" />
             <param name="reduce_window" value="default_string" />
-            <param name="reduce_func" value="&lt;function ChangepointsMixin.&lt;lambda&gt; at 0x714978652160&gt;" />
+            <param name="reduce_func" value="&lt;function ChangepointsMixin.&lt;lambda&gt; at 0x7f03cc2d2160&gt;" />
             <param name="model_by_resids" value="true" />
           </conditional>
         </conditional>
@@ -154,7 +154,7 @@
             <param name="window" value="default_string" />
             <param name="min_periods" value="1" />
             <param name="reduce_window" value="default_string" />
-            <param name="reduce_func" value="&lt;function ChangepointsMixin.&lt;lambda&gt; at 0x714978651f80&gt;" />
+            <param name="reduce_func" value="&lt;function ChangepointsMixin.&lt;lambda&gt; at 0x7f03cc2d1f80&gt;" />
             <param name="flag" value="255.0" />
           </conditional>
         </conditional>
@@ -179,7 +179,7 @@
             <param name="window" value="a_string" />
             <param name="min_periods" value="1" />
             <param name="reduce_window" value="default_string" />
-            <param name="reduce_func" value="&lt;function ChangepointsMixin.&lt;lambda&gt; at 0x714978651f80&gt;" />
+            <param name="reduce_func" value="&lt;function ChangepointsMixin.&lt;lambda&gt; at 0x7f03cc2d1f80&gt;" />
             <param name="flag" value="255.0" />
           </conditional>
         </conditional>
@@ -204,7 +204,7 @@
             <param name="window" value="default_string" />
             <param name="min_periods" value="123" />
             <param name="reduce_window" value="default_string" />
-            <param name="reduce_func" value="&lt;function ChangepointsMixin.&lt;lambda&gt; at 0x714978651f80&gt;" />
+            <param name="reduce_func" value="&lt;function ChangepointsMixin.&lt;lambda&gt; at 0x7f03cc2d1f80&gt;" />
             <param name="flag" value="255.0" />
           </conditional>
         </conditional>
@@ -315,7 +315,7 @@
             <param name="cluster_field" value="default_string" />
             <param name="spread" value="1.0" />
             <param name="method" value="single" />
-            <param name="metric" value="&lt;function DriftMixin.&lt;lambda&gt; at 0x7149749f0d60&gt;" />
+            <param name="metric" value="&lt;function DriftMixin.&lt;lambda&gt; at 0x7f03c83acd60&gt;" />
             <param name="frac" value="0.5" />
           </conditional>
         </conditional>
@@ -409,7 +409,7 @@
             <param name="window" value="default_string" />
             <param name="spread" value="1.0" />
             <param name="frac" value="0.5" />
-            <param name="metric" value="&lt;function cityblock at 0x71497525fd80&gt;" />
+            <param name="metric" value="&lt;function cityblock at 0x7f03c8f27d80&gt;" />
             <param name="method" value="single" />
             <param name="flag" value="255.0" />
           </conditional>
@@ -435,7 +435,7 @@
             <param name="reference" value="default_string" />
             <param name="freq" value="default_string" />
             <param name="thresh" value="1.0" />
-            <param name="metric" value="&lt;function cityblock at 0x71497525fd80&gt;" />
+            <param name="metric" value="&lt;function cityblock at 0x7f03c8f27d80&gt;" />
             <param name="flag" value="255.0" />
           </conditional>
         </conditional>
@@ -458,7 +458,7 @@
             <param name="cluster_field" value="default_string" />
             <param name="spread" value="1.0" />
             <param name="method" value="single" />
-            <param name="metric" value="&lt;function DriftMixin.&lt;lambda&gt; at 0x7149749f0c20&gt;" />
+            <param name="metric" value="&lt;function DriftMixin.&lt;lambda&gt; at 0x7f03c83acc20&gt;" />
             <param name="frac" value="0.5" />
             <param name="flag" value="255.0" />
           </conditional>
@@ -1581,7 +1581,7 @@
             <repeat name="field_repeat">
               <param name="field" value="test_variable" />
             </repeat>
-            <param name="trafo" value="&lt;function OutliersMixin.&lt;lambda&gt; at 0x7149746f11c0&gt;" />
+            <param name="trafo" value="&lt;function OutliersMixin.&lt;lambda&gt; at 0x7f03c83dd1c0&gt;" />
             <param name="alpha" value="0.05" />
             <param name="n" value="10" />
             <param name="func" value="sum" />
@@ -1616,7 +1616,7 @@
             <repeat name="field_repeat">
               <param name="field" value="test_variable" />
             </repeat>
-            <param name="trafo" value="&lt;function OutliersMixin.&lt;lambda&gt; at 0x7149746f11c0&gt;" />
+            <param name="trafo" value="&lt;function OutliersMixin.&lt;lambda&gt; at 0x7f03c83dd1c0&gt;" />
             <param name="alpha" value="0.05" />
             <param name="n" value="10" />
             <param name="func" value="sum" />
@@ -1651,7 +1651,7 @@
             <repeat name="field_repeat">
               <param name="field" value="test_variable" />
             </repeat>
-            <param name="trafo" value="&lt;function OutliersMixin.&lt;lambda&gt; at 0x7149746f11c0&gt;" />
+            <param name="trafo" value="&lt;function OutliersMixin.&lt;lambda&gt; at 0x7f03c83dd1c0&gt;" />
             <param name="alpha" value="0.05" />
             <param name="n" value="10" />
             <param name="func" value="sum" />
